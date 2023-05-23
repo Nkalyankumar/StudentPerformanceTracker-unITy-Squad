@@ -1,6 +1,6 @@
 
 # StudentPerformanceTracker
-![Screenshot (28)](https://github.com/Nkalyankumar/StudentPerformanceTracker-unITy-Squad/assets/102470230/f7291adf-d1a9-4746-b985-9945a9b8d988)
+![Screenshot (100)](https://github.com/Nkalyankumar/StudentPerformanceTracker-unITy-Squad/assets/102470230/a23a2f6e-f3a6-43a1-b17b-db074885c3ec)
 
 StudentPerformanceTracker Project is a comprehensive system designed to manage and analyze student data. It provides functionalities for students, admins, and super admins to efficiently handle various tasks related to student information. This README file serves as a guide to understand the project and its components.
 # Project Description
