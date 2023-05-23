@@ -58,3 +58,8 @@ Dependencies include
 
 https://github.com/Nkalyankumar/StudentPerformanceTracker-unITy-Squad/assets/102470230/ca02f1d3-5d83-4e46-aabc-08a056436417
 
+
+## Acknowledgements
+We would like to express our gratitude and appreciation to the following individuals and organizations for their valuable contributions and support throughout the development of the StudentPerformanceTracker Project
+1.  We would like to acknowledge the support and resources provided by RGMCET that have been instrumental in the successful completion of this project.
+2.   We would like to Thank BYTS Team for their guidance and expertise in shaping the project and providing valuable insights.
