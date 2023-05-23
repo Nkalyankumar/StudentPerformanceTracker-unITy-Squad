@@ -45,13 +45,13 @@ Dependencies include
 
 5.Perform the desired actions, such as updating student information, generating reports, or managing user accounts.
 ## Team Members
-1. KalyanKumar N (Team Lead)
-2. Venkata UdayKiran S.V
-3. Poojitha N
-4. Shyam Sundhar J
-5. Mahesh J
-6. Preethi K
-7. Dhanunjaya M
+1. KalyanKumar N (BackEnd Developer and Team Lead)
+2. Venkata UdayKiran S.V(FrontEnd Developer)
+3. Poojitha N(Database Administrator)
+4. Shyam Sundhar J(FrontEnd Developer)
+5. Mahesh J(BackEnd Developer)
+6. Preethi K(Database Administrator)
+7. Dhanunjaya M(BackEnd Developer)
 ## Demo
 
 
