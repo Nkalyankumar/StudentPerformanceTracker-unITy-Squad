@@ -48,7 +48,7 @@ Dependencies include
 ## Team Members
 1. KalyanKumar N (BackEnd Developer and Team Lead)
 2. Venkata UdayKiran S.V(FrontEnd Developer)
-3. Poojitha N(Database Administrator)
+3. Poojitha N(FrontEnd Developer)
 4. Shyam Sundhar J(FrontEnd Developer)
 5. Mahesh J(BackEnd Developer)
 6. Preethi K(Database Administrator)
